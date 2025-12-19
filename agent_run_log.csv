@@ -1,0 +1,13 @@
+timestamp,frame_path,vision_pred_prob,vision_pred_label,state_avg_prob_window,state_context_bonus,state_risk_score,state_fatigue_level,action,action_intensity,action_message
+2025-12-19 00:23:41,/home/reisecoder/Documents/Assessment/assignment/driver_drowsiness/dataset/Non Drowsy/zc0928.png,0.0005,Drowsy,0.0005,0.1,0.1005,Low,no_action,none,Driver appears alert.
+2025-12-19 00:23:50,/home/reisecoder/Documents/Assessment/assignment/driver_drowsiness/dataset/Non Drowsy/y1473.png,0.0006,Drowsy,0.0006,0.1,0.1006,Low,no_action,none,Driver appears alert.
+2025-12-19 00:23:59,/home/reisecoder/Documents/Assessment/assignment/driver_drowsiness/dataset/Non Drowsy/q0078.png,0.0005,Drowsy,0.0005,0.1,0.1005,Low,no_action,none,Driver appears alert.
+2025-12-19 00:24:05,/home/reisecoder/Documents/Assessment/assignment/driver_drowsiness/dataset/Non Drowsy/i0584.png,0.0005,Drowsy,0.0005,0.1,0.1005,Low,no_action,none,Driver appears alert.
+2025-12-19 00:24:12,/home/reisecoder/Documents/Assessment/assignment/driver_drowsiness/dataset/Non Drowsy/s0035.png,0.0005,Drowsy,0.0005,0.1,0.1005,Low,no_action,none,Driver appears alert.
+2025-12-19 00:24:13,/home/reisecoder/Documents/Assessment/assignment/driver_drowsiness/dataset/Non Drowsy/a0596.png,0.0004,Drowsy,0.0005,0.1,0.1005,Low,no_action,none,Driver appears alert.
+2025-12-19 00:24:14,/home/reisecoder/Documents/Assessment/assignment/driver_drowsiness/dataset/Non Drowsy/j0358.png,0.0005,Drowsy,0.0005,0.1,0.1005,Low,no_action,none,Driver appears alert.
+2025-12-19 00:24:15,/home/reisecoder/Documents/Assessment/assignment/driver_drowsiness/dataset/Non Drowsy/p0019.png,0.0004,Drowsy,0.0005,0.1,0.1005,Low,no_action,none,Driver appears alert.
+2025-12-19 00:24:15,/home/reisecoder/Documents/Assessment/assignment/driver_drowsiness/dataset/Non Drowsy/a0739.png,0.0004,Drowsy,0.0005,0.1,0.1005,Low,no_action,none,Driver appears alert.
+2025-12-19 00:24:16,/home/reisecoder/Documents/Assessment/assignment/driver_drowsiness/dataset/Non Drowsy/a0475.png,0.0005,Drowsy,0.0005,0.1,0.1005,Low,no_action,none,Driver appears alert.
+2025-12-19 00:24:16,/home/reisecoder/Documents/Assessment/assignment/driver_drowsiness/dataset/Non Drowsy/zb0641.png,0.0005,Drowsy,0.0005,0.1,0.1005,Low,no_action,none,Driver appears alert.
+2025-12-19 00:24:16,/home/reisecoder/Documents/Assessment/assignment/driver_drowsiness/dataset/Non Drowsy/y1133.png,0.0005,Drowsy,0.0005,0.1,0.1005,Low,no_action,none,Driver appears alert.
